@@ -12,7 +12,7 @@ Convolutional layer -> Max pooling layer -> Convolutional layer - > Max pooling 
 connected layer x2 -> Softmax layer
 
 - Task 3: 
-You are going to perform Adaboost, Bagging and using two base classifiers respectively, including decision tree and logistic regression.
+Performed Adaboost, Bagging and using two base classifiers respectively, including decision tree and logistic regression.
 
 -----------------------------------------------------------------------------------------------------------------
 - PDF file contains the hand-written part of the question.
