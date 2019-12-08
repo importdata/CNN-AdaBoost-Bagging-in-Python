@@ -7,7 +7,7 @@ training and testing set.
 - Task 2:
 Applied PyTorch package to implement the CNN algorithm, and trained the model using the training set generated in the last task and use your model to predict labels in the test set. The structure of CNN is defined as follows.
 
---Structure:
+-Structure:
 Convolutional layer -> Max pooling layer -> Convolutional layer - > Max pooling layer -> Fully
 connected layer x2 -> Softmax layer
 
